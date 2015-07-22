@@ -1,7 +1,7 @@
 # PROTOTYPE
 * Ways To Do Interesting Things With Computers
 ## Generating Visuals:
-* Processing;
+* [Processing;] (https://processing.org/)
   * [Python Mode for Processing;] (http://py.processing.org/)
 * [ImagePlot;] (http://lab.softwarestudies.com/p/imageplot.html)
 * Python;

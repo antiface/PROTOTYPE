@@ -4,8 +4,9 @@
 ## Generating Visuals:
 * [Processing;] (https://processing.org/)
   * [Python Mode for Processing;] (http://py.processing.org/)
+  * [p5.js] (http://p5js.org/)
 * [ImagePlot;] (http://lab.softwarestudies.com/p/imageplot.html)
-* Python;
+* [Python;] (https://www.python.org/)
   * [Vispy;] (http://vispy.org/index.html)
   * [SimpleCV;] (http://simplecv.org/)
   * [Pillow;] (https://pillow.readthedocs.org/)

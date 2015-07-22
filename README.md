@@ -6,6 +6,7 @@
   * [Python Mode for Processing;] (http://py.processing.org/)
   * [p5.js;] (http://p5js.org/)
 * [ImagePlot;] (http://lab.softwarestudies.com/p/imageplot.html)
+* [ImageJ;] (http://rsbweb.nih.gov/ij/index.html)
 * [gnuplot;] (http://www.gnuplot.info/)
 * [Python;] (https://www.python.org/)
   * [Vispy;] (http://vispy.org/index.html)

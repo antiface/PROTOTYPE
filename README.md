@@ -19,6 +19,9 @@
   * [Mahotas;] (http://mahotas.readthedocs.org/en/latest/)
   * [Matplotlib;] (http://matplotlib.org/)
   * [Pylab;] (http://wiki.scipy.org/PyLab)
+  * [Bokeh;] (http://bokeh.pydata.org/en/latest/)
+  * [Glumpy;] (http://glumpy.github.io/)
+  * [rpy2 - R in Python;] (http://rpy.sourceforge.net/)
   * [Chaco] (http://code.enthought.com/chaco/)
   
 ### How I'm Going To Use All And None Of These To Do My Own Thing

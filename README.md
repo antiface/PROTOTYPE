@@ -10,6 +10,8 @@
 * [gnuplot;] (http://www.gnuplot.info/)
 * [Python;] (https://www.python.org/)
   * [Vispy;] (http://vispy.org/index.html)
+  * [ImaGen;] (http://ioam.github.io/imagen/)
+  * [HoloViews;] (http://holoviews.org/)
   * [PyQtGraph;] (http://www.pyqtgraph.org/)
   * [SimpleCV;] (http://simplecv.org/)
   * [Plotly;] (https://plot.ly/)

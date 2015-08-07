@@ -83,3 +83,100 @@ SOME IMAGEMAGICK SCRIPTS
 *  [Zombie pandemic simulation in France] (https://gist.github.com/antiface/e54f478dfd8d5a9f0fc8)
 *  [Various types of gradient descent method] (https://gist.github.com/antiface/ef2531c5172d1ef2bc51)
 *  [RGB Value to Nearest Color Name (Python)] (https://gist.github.com/antiface/4fe7d4a01e90a7850515)
+
+IMAGES & FILTERS & STUFF
+========================
+* [Median Filter] (https://gist.github.com/antiface/69fb0fed37a03677b83a)
+
+sloppy helper functions used to transform images (works with PIL-Image)
+https://gist.github.com/antiface/eebe97e69f6e0b23771b
+
+Few functions to return the difference between images using PIL, pymorph, numpy & few stdlib things
+https://gist.github.com/antiface/a4f70961e36245713535
+
+Blur TIFF
+https://gist.github.com/antiface/961781403473a3813e4d
+
+Intento fallido de capturar el contorno de una imagen
+https://gist.github.com/antiface/82e42ac96de971a23415
+
+Quick example of creating a recolorized (one-color) image
+https://gist.github.com/antiface/36c698fc823dd9cbb833
+
+Measure average grind coarseness from a picture.
+https://gist.github.com/antiface/f8ef26d6a83ba615a5f4
+
+port of filters.py project, it was too hackish to warrant a whole repo
+https://gist.github.com/antiface/569a50d82a6d1360c2a8
+
+How to apply a semi-transparent watermark to an image using Python
+https://gist.github.com/antiface/c1e42df3631ae3677630
+
+brightness.py
+https://gist.github.com/antiface/351add5430e13ebe3723
+
+Image Effects.py
+https://gist.github.com/antiface/60aaac854925a2fbeb75
+
+Solution to Instagram Engineering Challenge: The Unshredder
+https://gist.github.com/antiface/ddb08c4a655909e05ad3
+
+Image projection with Gaussian blur
+https://gist.github.com/antiface/e90c8ffb066924a59bed
+
+inv_radon SciPy python
+https://gist.github.com/antiface/6ff062bda9eff0b63850
+
+extract average color from image and color sorting
+https://gist.github.com/antiface/1495a41adeaa770df8cd
+
+Hackathon R1
+https://gist.github.com/antiface/a602cb6b7fd3f13640ec
+
+gist:44e9e72c833d8c3ed8ea
+https://gist.github.com/antiface/44e9e72c833d8c3ed8ea
+
+filtros.py
+https://gist.github.com/antiface/b49a3d1796b3eebc1256
+
+15BitColors.py
+https://gist.github.com/antiface/336b955dceddf859ba3b
+
+dog.py
+https://gist.github.com/antiface/4becfda0db85ccbe43e0
+
+gist:de98077c562c89afe062
+https://gist.github.com/antiface/de98077c562c89afe062
+
+Gist by paste.py @ 2014-08-15 19:26:01.229616
+https://gist.github.com/antiface/7cf395c199f9090be1d9
+
+Count Characters In Image - Using Space Efficient CCL Algorithm With Dilation and Erosion
+https://gist.github.com/antiface/aaec465e25670489d12a
+
+polygons.py
+https://gist.github.com/antiface/5f0d3c86997d2a0a1c0f
+
+Texture atlas generator - kalio.net
+https://gist.github.com/antiface/87d59cdfd1495bfe119a
+
+tailor.py
+https://gist.github.com/antiface/3f1d0e687d6a8f6d1bde
+
+gen.py
+https://gist.github.com/antiface/3d9574ef9016ef8e5879
+
+png.py
+https://gist.github.com/antiface/9236182496518352cc3e
+
+laser-dewarp.py
+https://gist.github.com/antiface/de0b1690e3c8eb812a28
+
+Pythonista Scripts
+https://gist.github.com/antiface/ea3555b88c2673b13cfe
+
+Pythonista Scripts
+https://gist.github.com/antiface/5d1daa4aa95b02b4c494
+
+Visual Binary Analysis
+(https://gist.github.com/antiface/cfb63134019333285aff)

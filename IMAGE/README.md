@@ -50,3 +50,14 @@ VARIOUS IMAGE UTILS (GISTS)
 * [Image diff fixture (draft)] (https://gist.github.com/antiface/a3a257556c41542bded3)
 * [Filter images from RR 2015, save them raw to a file] (https://gist.github.com/antiface/d781c57e7b1c0de59104)
 * [fast way to generate weighted bar palettes from images] (https://gist.github.com/antiface/5a6fb32a7603ef3555ba)
+
+PLAYING WITH GIFS
+=================
+* [Generate GIFs from random bits of videos.] (https://gist.github.com/antiface/c092317a6cf180e13636)
+* [file to create animated gifs from a series of sequential gifs] (https://gist.github.com/antiface/03f0ad194583e817608f)
+* [A small python library for rendering generative art gifs] (https://gist.github.com/antiface/c4994b80dc286fb75571)
+* [create animated gifs from a folder full of video clips with moviepy] (https://gist.github.com/antiface/0328c9bf2a8b3f8d4d71)
+* [python gif-maker.py {filepath} {start time} {run time} python gif-maker.py movie.mp4 00:00:39 3] (https://gist.github.com/antiface/b49291f95943a9f9238c)
+* [extract frames from animated gif using python+PIL] (https://gist.github.com/antiface/1d487551679383d6ba33)
+* [Extract frames from an animated GIF, correctly handling palettes and frame update modes] (https://gist.github.com/antiface/9202488694caf7653027)
+* [generate_gif.py] (https://gist.github.com/antiface/17b4920d4bc208043e10)

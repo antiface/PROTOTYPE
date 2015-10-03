@@ -15,7 +15,7 @@ Construction-Land
 * [antiface/pyrec] (https://github.com/antiface/pyrec)
 * [antiface/objects] (https://github.com/antiface/objects)
 * [antiface/classtoolz] (https://github.com/antiface/classtoolz)
-* [antiface/Card-Player-Logic-Tester¸(https://github.com/antiface/Card-Player-Logic-Tester)
+* [antiface/Card-Player-Logic-Teste] (https://github.com/antiface/Card-Player-Logic-Tester)
 * [antiface/python-bible] (https://github.com/antiface/python-bible)
 * [antiface/CrossSim] (https://github.com/antiface/CrossSim)
 * [antiface/flying-gaussian] (https://github.com/antiface/flying-gaussian)

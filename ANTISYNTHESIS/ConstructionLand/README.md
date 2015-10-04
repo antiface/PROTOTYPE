@@ -27,3 +27,15 @@ Construction-Land
 * [antiface/py-moneyed] (https://github.com/antiface/py-moneyed)
 * [antiface/impacket] (https://github.com/antiface/impacket)
 * [antiface/micromodels] (https://github.com/antiface/micromodels)
+
+###Some more recent forks, for the same reason, because they had interesting Python classes:
+* [antiface/jukebox] (https://github.com/antiface/jukebox)
+* [antiface/Utilities] (https://github.com/antiface/Utilities)
+* [antiface/FormHelper] (https://github.com/antiface/FormHelper)
+* [antiface/rpgSelfPlay] (https://github.com/antiface/rpgSelfPlay)
+* [antiface/linear_systems] (https://github.com/antiface/linear_systems)
+* [antiface/DictLearner] (https://github.com/antiface/DictLearner)
+* [antiface/cyber_constitution] (https://github.com/antiface/cyber_constitution)
+* [antiface/theanoDeepL] (https://github.com/antiface/theanoDeepL)
+* [antiface/dyneav] (https://github.com/antiface/dyneav)
+* [antiface/stream_fsm] (https://github.com/antiface/stream_fsm)

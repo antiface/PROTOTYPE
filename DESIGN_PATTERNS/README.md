@@ -1,5 +1,5 @@
 ### ABSTRACT
-* The idea here is similar to what we have done in the NOTE APPS repository. See: [Quickrefs/NOTE_APPS](https://github.com/antiface/Quickrefs/tree/master/NOTE_APPS)
+* The idea here is similar to what we have done in the NOTE APPS repository. See: [Quickrefs/NOTE_APPS](https://github.com/antiface/Quickrefs/tree/master/NOTE_APPS#abstract)
 * Essentially, the idea is to look at a sample of repositories of Python code that have to do with various DESIGN PATTERNS;
 * First, we look at the design patterns, then we study them and compare the different implementations with one another;
 * In the end, we build our own DESIGN PATTERNS repository of Python code written in the best Pythonic idioms possible.
